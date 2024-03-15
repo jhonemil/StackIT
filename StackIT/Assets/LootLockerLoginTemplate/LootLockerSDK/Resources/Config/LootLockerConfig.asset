@@ -22,10 +22,10 @@ MonoBehaviour:
   sdk_version: 2.1.2
   deviceID: 
   url: https://api.lootlocker.io/v1
-  adminUrl: https://nt614fyw.api.lootlocker.io/admin
-  playerUrl: https://nt614fyw.api.lootlocker.io/player
-  userUrl: https://nt614fyw.api.lootlocker.io/game
-  baseUrl: https://nt614fyw.api.lootlocker.io
+  adminUrl: https://o26vs88d.api.lootlocker.io/admin
+  playerUrl: https://o26vs88d.api.lootlocker.io/player
+  userUrl: https://o26vs88d.api.lootlocker.io/game
+  baseUrl: https://o26vs88d.api.lootlocker.io
   clientSideRequestTimeOut: 5
   currentDebugLevel: 0
   allowTokenRefresh: 1
